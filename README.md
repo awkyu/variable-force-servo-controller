@@ -5,4 +5,4 @@ This was a small project that involved controlling a servo-motor based on the am
 
 [Demo Video](https://youtube.com/shorts/XVDohUQwqBM)
 
-![Alt Text](https://github.com/awkyu/variable-force-servo-controller/blob/main/IMG_8414.jpg)
+![Alt Text](https://github.com/awkyu/variable-force-servo-controller/blob/main/IMG_8416.jpg)
